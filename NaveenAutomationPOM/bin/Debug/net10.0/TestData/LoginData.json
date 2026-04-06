@@ -1,0 +1,1 @@
+{ "validLogin": { "email": "Test@yopmail.com", "password": "Admin@123" }, "invalidLogin": { "email": "wrong@gmail.com", "password": "Wrong123" } }
